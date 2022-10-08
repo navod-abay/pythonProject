@@ -1,0 +1,5 @@
+pydub
+pyaudio
+tkinter
+mutagen
+pillow
